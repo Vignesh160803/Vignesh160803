@@ -1,4 +1,9 @@
 # 💫 About Me:
+As a sixth-semester Computer Science Engineering undergraduate, I've explored a range of technologies. On the frontend, I specialize in ReactJS and NextJS, complemented by TailwindCSS for responsive design. For backend development, I'm proficient in NodeJS and Firebase. I'm skilled in Java, Python, C++, and C. With a passion for machine learning and deep learning, I fine-tune models and experiment with algorithms. I'm eager to collaborate and innovate in AI. Let's connect and build something awesome together!
+---
+[![](https://visitcount.itsvg.in/api?id=Vignesh160803&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🔭 I'm currently working on CCTV morph detection<br>👯 I’m looking to collaborate on ML/DL projects<br>🤝 I’m looking for help on building an application that tracks memory<br>      leaks<br>🌱 I’m currently learning ThreeJS and AR/VR.<br>💬 Ask me about Data Science, AI/ML, Neural Networks.<br>⚡ Fun fact I have a knack for picking up new skills quickly.
 
 
@@ -12,6 +17,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesh160803&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh160803&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vignesh160803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -21,7 +29,3 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Vignesh160803&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
