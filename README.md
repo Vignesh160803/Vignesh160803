@@ -4,8 +4,6 @@
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=Vignesh160803&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 🔭 I'm currently working on CCTV morph detection<br>👯 I’m looking to collaborate on ML/DL projects<br>🤝 I’m looking for help on building an application that tracks memory<br>      leaks<br>🌱 I’m currently learning ThreeJS and AR/VR.<br>💬 Ask me about Data Science, AI/ML, Neural Networks.<br>⚡ Fun fact I have a knack for picking up new skills quickly.
 
@@ -32,3 +30,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+[![](https://visitcount.itsvg.in/api?id=Vignesh160803&icon=0&color=0)](https://visitcount.itsvg.in)
