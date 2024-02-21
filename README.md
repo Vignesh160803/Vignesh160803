@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### As a sixth-semester Computer Science Engineering undergraduate, I've explored a range of technologies. On the frontend, I specialize in ReactJS and NextJS, complemented by TailwindCSS for responsive design. 
 ### For backend development, I'm proficient in NodeJS and Firebase. I'm skilled in Java, Python, C++, and C. With a passion for machine learning and deep learning, I fine-tune models and experiment with machine
-learning algorithms. 
+### learning algorithms. 
 ### I'm eager to collaborate and innovate in AI. Let's connect and build something awesome together!
 ---
 
