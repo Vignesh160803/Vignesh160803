@@ -6,7 +6,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🔭 GenAI Full Stack Engineering Intern @iamneo<br>👯 Ask me about WebDev, AI<br>🤝 My hobbies are travelling, watching TV,<br>  sports especially cricket and football<br>🌱 Automobile and AI enthusiast.<br>💬 Personal Email:vgram2003@gmail.com .<br>⚡ Oh and that's not it, I play a ton of games.
+🔭 GenAI Full Stack Engineering Intern @iamneo<br>👯 Ask me about WebDev, AI<br>🤝 My hobbies are travelling, watching TV, sports especially cricket and football<br>🌱 Automobile and AI enthusiast.<br>💬 Personal Email:vgram2003@gmail.com .<br>⚡ Oh and that's not it, I play a ton of games.
 
 
 ## 🌐 Socials:
