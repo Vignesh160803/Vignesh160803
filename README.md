@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Final year Computer Science Engineering Student. Proficientin ReactJS, TailwindCSS, NodeJS, Firebase, Python, C++. 
+### Final year Computer Science Engineering Student. Proficient in React, BootstrapCSS, NodeJS, Firebase, Python, C++. 
 ### With a passion for machine learning and deep learning, I fine-tune models, optimizing them for memory-constrained devices. 
 ### I'm eager to collaborate and innovate in AI. Let's connect and build something awesome together!
 ---
